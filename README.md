@@ -1,5 +1,5 @@
 # Placement-Preparation-Module
-Prateek Kumar
-2100290109013
-CSE Sec C
+Harsh Srivastav
+2100290109004
+CSE Sec B
 7th Semester
